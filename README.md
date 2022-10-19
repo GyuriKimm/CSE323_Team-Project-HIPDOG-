@@ -7,7 +7,7 @@ CSE323 HipDog Web Project
 * __Sungjoo Shin__ <sungjoo.shin@stonybrook.edu>
 
 ### HipDog Web Link
-* hipdog.netlify.app
+* [Link](hipdog.netlify.app)
 
 ### HipDog Intro PPT Link
 * [Link](https://docs.google.com/presentation/d/1aeIoG1PqAZa-il5dhJ0TD6niUAtQBFQ30Z_xsLesPMM/edit?usp=sharing)
